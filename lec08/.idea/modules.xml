@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ProjectModuleManager">
+    <modules>
+      <module fileurl="file://$PROJECT_DIR$/CalPac/CalPac.iml" filepath="$PROJECT_DIR$/CalPac/CalPac.iml" />
+      <module fileurl="file://$PROJECT_DIR$/GuGuDan/GuGuDan.iml" filepath="$PROJECT_DIR$/GuGuDan/GuGuDan.iml" />
+      <module fileurl="file://$PROJECT_DIR$/IsInCircle/IsInCircle.iml" filepath="$PROJECT_DIR$/IsInCircle/IsInCircle.iml" />
+      <module fileurl="file://$PROJECT_DIR$/SumOfJJACSU/SumOfJJACSU.iml" filepath="$PROJECT_DIR$/SumOfJJACSU/SumOfJJACSU.iml" />
+      <module fileurl="file://$PROJECT_DIR$/findMultif/findMultif.iml" filepath="$PROJECT_DIR$/findMultif/findMultif.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/lec08.iml" filepath="$PROJECT_DIR$/.idea/lec08.iml" />
+    </modules>
+  </component>
+</project>
